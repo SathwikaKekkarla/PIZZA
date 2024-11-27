@@ -1,0 +1,17 @@
+body{
+    background-image: url(bg4.jpg);
+}
+label{
+    color: black;
+}
+form{
+    background-color: bisque;
+    width: 300px;
+    padding-left: 20px;
+}
+p{
+    color: red;
+}
+h1{
+    color: purple;
+}
